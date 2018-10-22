@@ -6,6 +6,8 @@ import Navbar from 'Components/navbar'
 import Footer from 'Components/footer'
 import Home from 'Views/home'
 import About from 'Views/about'
+import Login from 'Views/login'
+import Register from 'Views/register'
 import ScrollTop from 'Components/scrollTop'
 import StylesIgnored from '../styles/main.css'
 
@@ -23,6 +25,8 @@ const Routes = (
             <Navbar />
             <Route path="/" exact component={Home} />
             <Route path="/about" component={About} />
+            <Route path="/register" component={Register} />
+            <Route path="/login" component={Login} />
             <Footer />
             <ScrollTop />
         </div>
