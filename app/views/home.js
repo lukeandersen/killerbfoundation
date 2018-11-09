@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 
 const Home = () => (
     <div className="container row">
@@ -12,7 +11,6 @@ const Home = () => (
             <p>For any questions or enquires please <a href="mailto:admin@killerbfoundation.org">contact us</a>.</p>
 
             <a href="mailto:admin@killerbfoundation.org" className="btn btn-primary m-t-2 m-b-4">Contact Us</a>
-            <Link to="register" className="btn btn-primary m-t-2 m-b-4">Register</Link>
 
             <br /><br />
         </div>
