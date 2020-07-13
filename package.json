@@ -17,7 +17,7 @@
   "dependencies": {
     "axios": "0.19.2",
     "classnames": "2.2.6",
-    "express": "4.16.3",
+    "express": "4.17.1",
     "flexboxgrid": "6.3.1",
     "normalize.css": "8.0.0",
     "prop-types": "15.6.1",
