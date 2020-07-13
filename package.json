@@ -19,7 +19,7 @@
     "classnames": "2.2.6",
     "express": "4.16.3",
     "flexboxgrid": "6.3.1",
-    "normalize.css": "8.0.0",
+    "normalize.css": "8.0.1",
     "prop-types": "15.6.1",
     "react": "16.3.2",
     "react-dom": "16.3.3",
